@@ -13,24 +13,24 @@ class App extends React.Component{
         produce:"England",
         technology:"ไวรัส Adonovirus พาหะ",
         },
-        // { 
-        //   nameCompony:"Phizer",
-        //   nameInter:"BNT162",
-        //   produce:"USA",
-        //   technology:"mRNA",
-        // },
+        { 
+          nameCompony:"Phizer",
+          nameInter:"BNT162",
+          produce:"USA",
+          technology:"mRNA",
+        },
         { 
         nameCompony:"moderna",
         nameInter:"mRNA-1273",
         produce:"USA",
         technology:"mRNA"
         },
-      //   {        
-      //   nameCompony:"sinovac",
-      //   nameInter:"Coronavac",
-      //   produce:"China",
-      //   technology:"วัคซันเชื้อตาย",
-      // },
+        {        
+        nameCompony:"sinovac",
+        nameInter:"Coronavac",
+        produce:"China",
+        technology:"วัคซันเชื้อตาย",
+      },
       ],
     };
   }
